@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/richontheweekends/static/css/main.5f361e03.chunk.css",
+    "main.js": "/richontheweekends/static/js/main.031ce718.chunk.js",
+    "main.js.map": "/richontheweekends/static/js/main.031ce718.chunk.js.map",
+    "runtime-main.js": "/richontheweekends/static/js/runtime-main.d53a96ec.js",
+    "runtime-main.js.map": "/richontheweekends/static/js/runtime-main.d53a96ec.js.map",
+    "static/js/2.7453b9be.chunk.js": "/richontheweekends/static/js/2.7453b9be.chunk.js",
+    "static/js/2.7453b9be.chunk.js.map": "/richontheweekends/static/js/2.7453b9be.chunk.js.map",
+    "index.html": "/richontheweekends/index.html",
+    "precache-manifest.765ceafa5659f9ddda5bcfeda68ed567.js": "/richontheweekends/precache-manifest.765ceafa5659f9ddda5bcfeda68ed567.js",
+    "service-worker.js": "/richontheweekends/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/richontheweekends/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7453b9be.chunk.js.LICENSE.txt": "/richontheweekends/static/js/2.7453b9be.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/richontheweekends/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d53a96ec.js",
+    "static/js/2.7453b9be.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.031ce718.chunk.js"
+  ]
+}
